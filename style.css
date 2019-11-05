@@ -1,0 +1,106 @@
+html{
+    margin:0;
+}
+body {
+    background-color: #3a1f5d;
+    width:100%;
+    background-image:url("./Images/background-image.png");
+    margin:0;
+}
+
+h2{
+    background-color:#96d1c7;
+    font-family:"Monteserrat", sans-serif;
+}
+/*css for navbar starts here*/
+header {
+    background-color: transparent;
+    width:100%;
+    height: auto;
+}
+
+nav {
+    width:100%;
+    display:flex;
+    justify-content:flex-start;
+}
+
+
+.navbar-content{
+    float:left;
+    width:45%;
+    height:auto;
+    list-style-type: none;
+}
+
+li {
+    display:inline-block;
+}
+
+.pages{
+    text-decoration:none;
+    text-align:center;
+    font-family:"Monteserrat", sans-serif;
+    font-size:1.2rem;
+    color:#e15249;
+    padding:10px 45px 10px 45px;
+}
+
+.pages:hover{
+    background-color:rgba(0,0,0,0.3);
+}
+
+.icon-content{
+    width:48%;
+    height:auto;
+}
+
+.icon-content li{
+    float:right;
+}
+
+.icon-content a{
+  padding:10px 45px 10px 45px;
+}
+
+section {
+    margin:400px 100px 300px 100px;
+    text-align:left;
+}
+
+.name {
+    color:#f6d365;
+    font-size:100px;
+    font-family:"Orbitron", sans-serif;
+    margin:0;
+}
+
+section p{
+    color:#e15249;
+    font-family:"Monteserrat", sans-serif;
+    font-size:1.3rem;
+}
+
+mark{
+    background-color:#96d1c7;
+}
+
+footer{
+    padding:10px 100px 10px 100px;
+    background-color:#533D5C;
+    text-align:center;
+    font-family:"Monteserrat", sans-serif;
+}
+
+h3 {
+    color:#000;
+}
+
+footer p{
+    color:#000;
+}
+
+footer a{
+    text-decoration:none;
+    color:  #2c1c33;
+}
