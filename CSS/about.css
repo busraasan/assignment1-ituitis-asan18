@@ -3,6 +3,11 @@ section{
   height:90%;
 }
 
+.mypic{
+  height: 27%;
+  margin:0 580px 0 580px;
+}
+
 h1{
   color:#f6d365;
   font-family:"Monteserrat", sans-serif;
