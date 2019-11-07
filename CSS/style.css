@@ -4,7 +4,7 @@ html{
 body {
     background-color: #3a1f5d;
     width:100%;
-    background-image:url("/home/asan/assignment1-ituitis-asan18/Images/background-image.png");
+    background-image:url("../Images/background-image.png");
     margin:0;
 }
 
