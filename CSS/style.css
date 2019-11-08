@@ -5,12 +5,13 @@ body {
     background-color: #3a1f5d;
     width:100%;
     background-image:url("../Images/background-image.png");
-    margin:0;
+    margin: 0;
 }
 
 h2{
     background-color:#96d1c7;
     font-family:"Monteserrat", sans-serif;
+    margin-top: 0;
 }
 
 /*css for navbar starts here*/

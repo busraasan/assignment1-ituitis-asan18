@@ -4,7 +4,7 @@ section{
 }
 
 .mypic{
-  height: 27%;
+  height: 200px;
   margin:0 580px 0 580px;
 }
 
@@ -28,6 +28,7 @@ table, th, td {
 }
 table{
   width:100%;
+  margin: 40px 0 40px 0;
 }
 th{
   color:#f6d365;
