@@ -31,22 +31,23 @@ nav {
 
 .navbar-content{
     float:left;
-    width:45%;
+    width:48%;
     height:auto;
     list-style-type: none;
 }
+
 
 li {
     display:inline-block;
 }
 
-.pages{
+a{
     text-decoration:none;
     text-align:center;
     font-family:"Monteserrat", sans-serif;
     font-size:1.2rem;
     color:#e15249;
-    padding:10px 45px 10px 45px;
+    padding:20px 45px 20px 45px;
 }
 
 .pages:hover{
@@ -60,10 +61,6 @@ li {
 
 .icon-content li{
     float:right;
-}
-
-.icon-content a{
-  padding:10px 45px 10px 45px;
 }
 
 /* css for navbar ends here */
@@ -85,9 +82,11 @@ footer p{
     color:#000;
 }
 
-footer a{
+.flaticon-link{
     text-decoration:none;
     color:  #2c1c33;
+    font-size:1.2rem;
+    padding:5px;
 }
 
 /*css for footer ends here */
