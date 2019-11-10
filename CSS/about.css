@@ -1,11 +1,15 @@
 section{
-  margin:10px 300px 10px 300px;
-  height:90%;
+  margin:2% 16% 2% 16%;
+  justify-content: center;
 }
 
 .mypic{
-  height: 210px;
-  margin:0 570px 0 533px;
+  /*height: 210px;*/
+  display: block;
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 h1{
