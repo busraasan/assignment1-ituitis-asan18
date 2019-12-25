@@ -21,3 +21,8 @@ h1{
   margin-right: auto;
   width: 20%;
 }
+
+/*for assignment2 */
+tr {
+  border-bottom: dotted;
+}
